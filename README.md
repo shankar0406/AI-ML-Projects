@@ -44,10 +44,10 @@
 
 ![Filtration](https://github.com/user-attachments/assets/bf5bd8d0-8ce9-4383-93eb-619f0816c682)
 
+![pics of visualization](https://github.com/user-attachments/assets/69c92a9f-3168-40f6-8dcf-ce2b23f648fa)
 
 ![Movies distribution and Avg duration by Genre](https://github.com/user-attachments/assets/cc717a71-62c5-48c4-9467-d0890a815729)
 
-[Visualization.docx](https://github.com/user-attachments/files/19792286/Visualization.docx)
 
 
 
