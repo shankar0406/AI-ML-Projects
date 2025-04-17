@@ -37,9 +37,16 @@
 * from selenium.webdriver.common.action_chains import ActionChains
 * from selenium.webdriver.common.keys import Keys
 
-  ![Top-10 movies](https://github.com/user-attachments/assets/fda9c4e4-dc94-4c74-a66e-14d1ea8c2ede)
-
   
+
+![Top-10 movies](https://github.com/user-attachments/assets/edcfc62a-bf63-4e17-93d6-bed46c89a8d5)
+
+![pics of visualization](https://github.com/user-attachments/assets/9e49dd3d-e877-42dc-9ab3-cc7ff7a6d0ed)
+
+![Movies distribution and Avg duration by Genre](https://github.com/user-attachments/assets/cc717a71-62c5-48c4-9467-d0890a815729)
+
+[Visualization.docx](https://github.com/user-attachments/files/19792286/Visualization.docx)
+
 
 
  
