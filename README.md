@@ -41,7 +41,9 @@
 
 ![Top-10 movies](https://github.com/user-attachments/assets/edcfc62a-bf63-4e17-93d6-bed46c89a8d5)
 
-![pics of visualization](https://github.com/user-attachments/assets/9e49dd3d-e877-42dc-9ab3-cc7ff7a6d0ed)
+
+![Filtration](https://github.com/user-attachments/assets/bf5bd8d0-8ce9-4383-93eb-619f0816c682)
+
 
 ![Movies distribution and Avg duration by Genre](https://github.com/user-attachments/assets/cc717a71-62c5-48c4-9467-d0890a815729)
 
